@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Silicone Case Blanco",
+    "price": 1800,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652370660/blanco_iojjr2.png"
+  },
+  {
+    "id": 2,
+    "name": "Silicone Case Verde",
+    "price": 3200,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652370644/verde_iltmea.png"
+  },
+  {
+    "id": 3,
+    "name": "Silicone Case Azul",
+    "price": 1800,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652370318/azul_nf8yfv.png"
+  },
+  {
+    "id": 4,
+    "name": "Silicone Case Rosa",
+    "price": 850,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652370525/rosa_iydiru.png"
+  },
+  {
+    "id": 5,
+    "name": "Silicone Case Rojo",
+    "price": 780,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652370336/rojo_qwz51t.png"
+  },
+  {
+    "id": 6,
+    "name": "Silicone Case Amarillo",
+    "price": 780,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652370327/amarillo_xsnnj9.png"
+  },
+  {
+    "id": 7,
+    "name": "Cable 1 Metro",
+    "price": 1500,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652798187/1m_e32gsl.png"
+  },
+  {
+    "id": 8,
+    "name": "Cable 2 Metro",
+    "price": 2500,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652798193/2m_ngmzvw.png"
+  },
+  {
+    "id": 9,
+    "name": "Adaptador 5w",
+    "price": 1800,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652798210/5w_tgperz.png"
+  },
+  {
+    "id": 10,
+    "name": "Protector Negro",
+    "price": 1800,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652798221/protector-v_vftw76.png"
+  },
+  {
+    "id": 11,
+    "name": "Protector Blanco",
+    "price": 1800,
+    "src": "https://res.cloudinary.com/dcwpf7ghu/image/upload/v1652798221/protector-v_vftw76.png"
+  },
+]
